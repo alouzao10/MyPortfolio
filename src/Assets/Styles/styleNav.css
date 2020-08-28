@@ -1,0 +1,23 @@
+.navigation {
+  width: 100vw;
+  background-color: gray;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+.headerContent {
+  text-align: center;
+}
+
+.navBtn {
+  margin-right: 5px;
+  margin-left: 5px;
+  border-radius: 5px;
+  background-color: rgb(43, 176, 253);
+  color: white;
+}
+
+.navBtn:hover {
+  cursor: pointer;
+  background-color: rgb(41, 79, 160);
+}
